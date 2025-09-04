@@ -1,1 +1,1 @@
-# Java-Project
+Vehicle Rental management System
